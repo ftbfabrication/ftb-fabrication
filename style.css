@@ -188,3 +188,16 @@ footer a { color: var(--muted); text-decoration: none; }
   .photo-placeholder { min-height: 230px; }
   .footer-wrap { flex-direction: column; }
 }
+.social-button {
+    display: inline-block;
+    padding: 12px 20px;
+    margin: 5px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.social-button:hover {
+    background-color: #555;
+}
