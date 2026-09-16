@@ -261,6 +261,7 @@ footer a { color: var(--muted); text-decoration: none; }
 
 /* Keep the additional service on its own row below the existing three. */
 .other-services-card {
+  text-align: center;
   grid-column: 1 / -1;
   display: block;
   text-decoration: none;
